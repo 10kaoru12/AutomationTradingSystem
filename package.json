@@ -1,0 +1,24 @@
+{
+  "name": "automationtradingsystem",
+  "version": "1.0.0",
+  "description": "This project is an automated virtual currency trading project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "functions-framework --target=helloWorld"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10kaoru12/AutomationTradingSystem.git"
+  },
+  "author": "kaoru ishizawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/10kaoru12/AutomationTradingSystem/issues"
+  },
+  "homepage": "https://github.com/10kaoru12/AutomationTradingSystem#readme",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.7.1",
+    "axios": "^0.19.2"
+  }
+}
