@@ -16,25 +16,17 @@
   </a>
 </p>
 
-> This project uses tradingview and firebase cloud functions to perform fully automated virtual currency trading.
+> This project uses python and the bitflyer API to automate virtual currency trading.
 
 ### 🏠 [Homepage](&#34;https://github.com/10kaoru12/AutomationTradingSystem&#34;)
 
 ## Prerequisites
 
-- node 10
+- python 3
 
 ## Install
 
-```sh
-npm install
-```
-
 ## Usage
-
-```sh
-npm run start
-```
 
 ## Author
 
